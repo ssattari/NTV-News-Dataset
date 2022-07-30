@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpeg7="urn:mpeg:mpeg7:schema:2001" xsi:schemaLocation="urn:mpeg:mpeg7:schema:2001 Mpeg7-2001.xsd">
+  <Description xsi:type="ContentEntityType">
+    <MultimediaContent xsi:type="VideoType">
+      <Video>
+        <TemporalDecomposition>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Man</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Otomobil dükkana girdi - Kontrolden çıkan araç dükkana daldı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:00:0F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">543</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:15:20470F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">272 91 449 258</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Anchor_Man</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">269 88 451 281</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Office</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:18:7547F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:21:20650F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">372 88 523 162</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Office</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:22:13673F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:24:2722F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">170 172 547 416</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:26:1781F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:27:12822F30000</MediaTimePoint>
+                </MediaTime>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:29:1871F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">65</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:30:3903F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Police</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">22 216 109 412</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">105 250 511 414</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:31:13943F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:33:13002F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">381 87 500 364</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">108 139 365 364</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:35:20069F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:37:1110F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">395 137 463 293</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">228 159 398 266</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:38:20159F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">65</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:39:22191F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">374 93 541 247</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Police</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">430 95 488 152</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">100 212 281 364</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Office</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:41:2231F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">155</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:44:8327F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">383 90 510 165</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Office</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Interview</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:46:14393F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">443</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:53:25614F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">56 95 265 345</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Otomobil dükkana girdi - Adana'da kontrolden çıkan bir otomobil tantunici dükkanına girdi: 2 yaralı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:01:14843F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:02:25884F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">362 127 444 295</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">24 157 358 341</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Office</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Otomobil dükkana girdi - Adana'da kontrolden çıkan bir otomobil tantunici dükkanına girdi: 2 yaralı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:04:14933F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">131</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:07:20028F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">186 122 545 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Office</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Otomobil dükkana girdi - Adana'da kontrolden çıkan bir otomobil tantunici dükkanına girdi: 2 yaralı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:08:26064F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">116</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:12:4162F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">403 87 514 164</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Otomobil dükkana girdi - Adana'da kontrolden çıkan bir otomobil tantunici dükkanına girdi: 2 yaralı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:12:22180F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">124</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:13:26214F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Human</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 21 86</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">40 94 544 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Person_Speaking</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:17:3311F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:18:5343F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">143 87 472 415</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+        </TemporalDecomposition>
+      </Video>
+    </MultimediaContent>
+  </Description>
+</Mpeg7>

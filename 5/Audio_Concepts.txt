@@ -1,0 +1,5 @@
+ntv5.mpg,
+21	10155	Pure Speech,
+10206	12137	Silence,
+12223	63877	Pure Speech,
+63895	64626	Silence,

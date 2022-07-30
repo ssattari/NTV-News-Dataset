@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpeg7="urn:mpeg:mpeg7:schema:2001" xsi:schemaLocation="urn:mpeg:mpeg7:schema:2001 Mpeg7-2001.xsd">
+  <Description xsi:type="ContentEntityType">
+    <MultimediaContent xsi:type="VideoType">
+      <Video>
+        <TemporalDecomposition>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Brezilya'da kafeye dalan otomobil 2 kişinin yaralanmasına neden oldu</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:00:0F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">56</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:01:8038F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">132 170 242 309</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Accident/Crash</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Brezilya'da kafeye dalan otomobil 2 kişinin yaralanmasına neden oldu</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:01:26056F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">513</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:15:8458F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 104 453 392</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+        </TemporalDecomposition>
+      </Video>
+    </MultimediaContent>
+  </Description>
+</Mpeg7>
