@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpeg7="urn:mpeg:mpeg7:schema:2001" xsi:schemaLocation="urn:mpeg:mpeg7:schema:2001 Mpeg7-2001.xsd">
+  <Description xsi:type="ContentEntityType">
+    <MultimediaContent xsi:type="VideoType">
+      <Video>
+        <TemporalDecomposition>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - TSK: 8 şehit, 14 yaralı, 12 terörist öldürüldü</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:00:0F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">129</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:02:4064F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">270 87 437 230</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">265 90 431 331</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - TSK: 8 şehit, 14 yaralı, 12 terörist öldürüldü</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:04:13133F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">29</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:04:27147F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">282 101 358 142</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">184 87 277 115</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">323 206 439 281</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">87 234 299 334</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Askeri birliğe saldırı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:05:19169F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:07:27237F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">81 93 306 170</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">30 302 126 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">343 151 458 327</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">308 146 456 328</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">41 190 357 325</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Askeri birliğe saldırı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:09:7277F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">29</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:09:12282F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">266 92 380 125</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">47 95 170 145</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">26 231 68 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">325 264 433 326</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">87 160 190 296</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">162 156 351 326</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">120 176 381 234</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:10:13313F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">191</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:12:3363F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">348 88 454 104</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">372 225 454 291</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">26 90 294 113</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">30 207 142 325</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 204 334 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">41 146 288 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">124 216 341 269</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:17:1511F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">11</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:17:6516F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">313 261 411 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">27 93 234 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">480 111 548 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">469 99 551 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">233 147 341 211</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Graphics_and_Text</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:17:19529F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">1199</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:37:19128F30000</MediaTimePoint>
+                </MediaTime>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:57:26735F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">335</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:04:22941F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">90 87 483 212</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">83 230 547 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">502 142 538 159</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">498 140 537 164</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:09:9077F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">623</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:24:22540F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">255 93 544 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">200 181 225 210</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">214 124 254 163</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Explosion</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:30:9707F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">407</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:35:10858F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">97 91 283 119</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">84 128 302 330</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">312 135 537 223</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:44:4121F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">191</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:47:9216F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">137 90 272 145</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">89 145 121 310</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Human</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 21 86</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">422 203 476 293</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 21 86</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">351 267 435 323</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">166 195 362 320</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:50:22319F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:52:12369F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">78 87 254 117</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">286 88 448 328</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:54:28445F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">232</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:59:10577F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">213 86 358 159</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">84 92 276 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">92 132 405 312</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:02:20677F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">301</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:08:6843F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">300 263 505 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">280 88 505 251</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">213 160 272 209</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">174 162 293 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">173 210 284 285</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - TSK: 8 şehit, 14 yaralı, 12 terörist öldürüldü</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:12:28985F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">515</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:17:8114F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">91 87 245 102</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">87 123 185 265</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">380 88 411 104</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">370 91 418 118</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">288 99 377 146</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">193 165 307 266</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - TSK: 8 şehit, 14 yaralı, 12 terörist öldürüldü</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:30:11507F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">209</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:33:7593F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">437 87 546 103</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">163 244 245 295</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">96 96 518 206</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">102 259 146 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">364 215 429 245</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">414 231 547 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Askeri birliğe saldırı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:37:17723F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">191</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:40:22818F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">95 87 320 162</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">388 162 491 276</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">116 171 269 361</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">310 258 546 360</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:44:5921F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">173</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:47:2007F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">246 311 394 341</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">174 126 535 212</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">352 272 468 291</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">152 271 183 315</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">416 222 509 283</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:50:6101F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:50:11106F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">141 86 279 120</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">289 119 383 160</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">439 208 547 328</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">95 149 323 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">84 142 442 338</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">275 249 448 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:53:24209F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:55:14259F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">103 95 456 169</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">294 305 369 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">88 135 551 338</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">92 156 521 332</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:57:12317F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">11</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:57:17322F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">91 136 159 190</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">154 94 252 143</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">445 248 543 334</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">311 141 422 233</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">157 149 447 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">154 173 520 248</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Explosion</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:58:335F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">425</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:01:17442F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">90 88 275 198</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">89 199 235 344</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">284 121 427 210</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:03:12:12767F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">317</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:18:17952F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">116 92 450 163</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:03:23:7091F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">155</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:25:24168F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">258 93 431 169</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">270 197 457 300</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">77 150 219 243</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">23 132 274 330</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">198 204 281 331</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:03:28:19253F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">11</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:28:24258F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">362 240 448 322</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 99 451 323</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:03:29:7271F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">227</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:33:18402F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">103 92 188 227</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">88 90 535 182</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">301 194 356 269</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:03:37:1505F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">551</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:50:12906F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">229 101 312 269</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">120 114 331 278</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">356 107 436 286</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:03:55:20063F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">173</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:03:55:21064F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">93 96 378 304</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">178 326 525 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">515 282 541 323</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">387 187 433 222</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              <FreeTextAnnotation>Takeoff/Launch</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:04:01:20243F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">299</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:04:06:19392F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Desert</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">102 93 312 192</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">189 231 288 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">278 118 513 334</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 21 86</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Takeoff/Launch</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Genelkurmay: 8 şehit, 14 yaralı, AK partili Dengir Fırat değerlendiriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:04:11:26549F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:04:12:28581F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">367 89 399 112</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">283 108 541 331</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Fire</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">160 272 188 296</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">187 205 225 249</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Woman</FreeTextAnnotation>
+              <FreeTextAnnotation>Rocket</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>Takeoff/Launch</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Hakkari'de 8 şehit - Askeri birliğe saldırı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:04:15:14657F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:04:16:25698F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">349 90 447 132</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">118 121 418 300</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">158 158 190 176</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+        </TemporalDecomposition>
+      </Video>
+    </MultimediaContent>
+  </Description>
+</Mpeg7>

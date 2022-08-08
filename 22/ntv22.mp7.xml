@@ -1,0 +1,1742 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpeg7="urn:mpeg:mpeg7:schema:2001" xsi:schemaLocation="urn:mpeg:mpeg7:schema:2001 Mpeg7-2001.xsd">
+  <Description xsi:type="ContentEntityType">
+    <MultimediaContent xsi:type="VideoType">
+      <Video>
+        <TemporalDecomposition>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Man</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:00:0F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">417</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:06:28208F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">234 90 429 248</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Anchor_Man</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">227 87 435 411</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              <FreeTextAnnotation>Artillery</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:14:1421F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">139</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:15:20470F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">440 248 546 350</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">128 91 348 174</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">23 194 391 394</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Artillery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 21 86</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Meeting_Room</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Meeting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - İntihat eden asker sayısı açıklanmıyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:18:20560F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">52</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:18:21561F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">37 189 334 260</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Meeting_Room</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Meeting</FreeTextAnnotation>
+              <FreeTextAnnotation>Person_Speaking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - İntihat eden asker sayısı açıklanmıyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:20:19619F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:21:20650F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">304 87 416 318</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - 1991-2001 yılları içinde TSK'da 1248 intihar girişimi oldu, 815'i ölümle sonuçlandı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:24:7727F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">227</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:27:2812F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 265 82 416</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">246 179 391 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - 1991-2001 yılları içinde TSK'da 1248 intihar girişimi oldu, 815'i ölümle sonuçlandı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:32:1961F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">173</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:36:9088F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">414 88 542 189</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">346 182 501 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">344 177 488 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>Landing</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - 1991-2001 yılları içinde TSK'da 1248 intihar girişimi oldu, 815'i ölümle sonuçlandı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:38:2141F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:41:15244F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">47 98 267 134</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">358 94 437 125</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">121 148 545 341</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - 1991-2001 yılları içinde TSK'da 1248 intihar girişimi oldu, 815'i ölümle sonuçlandı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:42:8267F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">47</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:42:21280F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">326 121 537 289</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">186 209 313 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">176 201 314 341</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - 1991-2001 yılları içinde TSK'da 1248 intihar girişimi oldu, 815'i ölümle sonuçlandı</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:44:2321F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">155</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:47:27436F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">356 270 444 348</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">345 266 450 352</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">228 233 453 349</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Helicopter</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">27 96 490 259</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Snow</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:49:14483F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">137</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:52:10569F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Snow</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">65 89 238 133</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">303 99 402 132</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">493 110 547 225</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">143 219 546 318</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">138 251 357 309</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Snow</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:54:8627F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">29</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:54:21640F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Snow</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">145 211 360 313</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">178 90 449 191</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">484 134 549 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">462 124 548 332</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">456 239 516 279</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Snow</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:55:14663F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:56:15694F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Snow</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 87 110</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">115 111 333 256</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">373 152 516 301</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">290 150 520 323</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">283 219 404 300</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:58:14753F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">191</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:00:1800F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">287 224 375 324</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">28 104 249 327</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">382 101 461 325</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">382 102 461 311</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:05:2951F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">11</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:05:3952F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">210 98 521 169</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">94 176 485 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:05:20969F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:06:22000F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">123 126 304 233</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">422 106 546 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">44 102 548 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">33 210 300 338</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:09:27095F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">227</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:13:20208F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">140 105 509 178</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">86 100 537 196</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 220 423 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 209 533 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">304 256 535 332</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:17:21329F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">155</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:19:368F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">282 89 542 158</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">358 196 480 257</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">400 264 493 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tank</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">23 90 539 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:23:3491F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">175</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:28:1639F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">71 92 534 193</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">107 99 539 175</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">25 219 547 384</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">24 192 549 342</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">27 261 504 319</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:28:28666F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">160</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:31:15743F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">235 112 390 167</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">72 94 212 159</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">140 95 490 218</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:34:15833F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">137</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:37:28936F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">275 131 542 324</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">32 94 409 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:39:9977F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">245</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:42:11068F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 88 520 355</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">303 93 549 282</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:47:22229F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:49:11278F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">25 90 309 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Araştırmalar güneydoğu'da görev yapanlarda travma oluştuğunu gösteriyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:51:28355F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">155</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:55:23470F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">219 90 354 132</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">321 272 400 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">344 109 410 263</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">223 134 324 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">210 199 326 250</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı -  Milli savunma bakanı Gönül, son dönem intiharları için gizli diye bilgi vermiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:57:10517F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">173</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:59:14581F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">95 98 236 229</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">269 90 428 326</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">271 89 426 329</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">335 116 417 329</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı -  Milli savunma bakanı Gönül, son dönem intiharları için gizli diye bilgi vermiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:03:10697F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">193</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:07:11818F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">364 94 445 159</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">323 192 388 246</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">389 120 545 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">243 93 326 272</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">81 86 221 347</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">91 122 233 239</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı -  Milli savunma bakanı Gönül, son dönem intiharları için gizli diye bilgi vermiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:09:23890F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">232</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:14:15031F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">337 191 475 293</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">376 90 522 140</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">53 244 196 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">245 99 366 154</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı -  Milli savunma bakanı Gönül, son dönem intiharları için gizli diye bilgi vermiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:17:23129F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:17:24130F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">295 95 406 185</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">423 118 530 217</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">30 91 278 334</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">268 228 539 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı -  Milli savunma bakanı Gönül, son dönem intiharları için gizli diye bilgi vermiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:20:23219F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:21:24250F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Greenery</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">381 260 520 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">159 95 535 155</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">24 157 383 344</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Bakan Vecdi Gönül alınan tedbirlerle intiharlarda azalma olduğunu belirtiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:24:11327F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">317</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:28:9445F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">37 112 164 212</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Rock</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">410 134 490 219</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">326 145 411 338</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">306 132 430 340</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">122 165 468 334</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">404 240 446 329</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Bakan Vecdi Gönül alınan tedbirlerle intiharlarda azalma olduğunu belirtiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:35:5651F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:38:736F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">378 89 463 115</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">82 96 148 170</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">30 228 155 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">145 91 211 255</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">240 92 358 342</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Land</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/side_view_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Walking</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Bakan Vecdi Gönül alınan tedbirlerle intiharlarda azalma olduğunu belirtiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:39:11777F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:40:12808F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">28 91 530 190</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Land</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">36 193 312 284</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">116 292 323 342</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:TSK'nın sırrı - Bakan Vecdi Gönül alınan tedbirlerle intiharlarda azalma olduğunu belirtiyor</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:02:43:17903F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">209</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:02:49:13078F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">27 92 193 179</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Mountain</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">26 206 166 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">199 126 324 348</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">201 123 330 343</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">355 166 493 331</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+        </TemporalDecomposition>
+      </Video>
+    </MultimediaContent>
+  </Description>
+</Mpeg7>

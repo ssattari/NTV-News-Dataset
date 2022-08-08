@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpeg7="urn:mpeg:mpeg7:schema:2001" xsi:schemaLocation="urn:mpeg:mpeg7:schema:2001 Mpeg7-2001.xsd">
+  <Description xsi:type="ContentEntityType">
+    <MultimediaContent xsi:type="VideoType">
+      <Video>
+        <TemporalDecomposition>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>News_Studio</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Anchor_Man</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>Reporting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Suudi askeri Bahreyn'de - Suudi Arabistan, Bahreyn'e gösterilerin bastırılması için bin asker gönderdi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:00:0F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">543</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:15:20470F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">300 89 470 244</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Anchor_Man</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">300 86 476 338</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Suudi askeri Bahreyn'de - Suudi Arabistan, Bahreyn'e gösterilerin bastırılması için bin asker gönderdi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:18:7547F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">209</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:22:18678F30000</MediaTimePoint>
+                </MediaTime>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Suudi askeri Bahreyn'de - Suudi Arabistan, Bahreyn'e gösterilerin bastırılması için bin asker gönderdi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:25:13763F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">162</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:25:14764F30000</MediaTimePoint>
+                </MediaTime>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Suudi askeri Bahreyn'de - Suudi Arabistan, Bahreyn'e gösterilerin bastırılması için bin asker gönderdi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:30:25925F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">119</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:31:26956F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">26 113 119 301</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">142 166 241 327</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">289 139 393 332</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Suudi askeri Bahreyn'de - Suudi Arabistan, Bahreyn'e gösterilerin bastırılması için bin asker gönderdi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:35:2051F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">101</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:36:3082F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Smoke</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">282 221 380 300</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">295 86 362 145</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">389 125 419 149</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bahreyn, muhalefet gösterilerini sona erdirmek için komşularından yardım istedi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:38:20159F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">193</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:42:27286F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">21 86 21 86</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">138 86 218 117</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">312 249 441 354</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">164 122 258 310</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Artillery</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bahreyn, muhalefet gösterilerini sona erdirmek için komşularından yardım istedi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:45:3352F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">124</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:46:4383F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">37 110 174 305</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">356 311 547 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">317 155 373 246</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Indoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Camera flash</FreeTextAnnotation>
+              <FreeTextAnnotation>Politics</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Greeting</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bahreyn, muhalefet gösterilerini sona erdirmek için komşularından yardım istedi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:49:14483F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">209</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:51:7536F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">378 136 526 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">48 86 388 339</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bahreyn, muhalefet gösterilerini sona erdirmek için komşularından yardım istedi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:56:20699F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">47</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:00:57:3712F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">230 90 549 336</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Suudi askeri Bahreyn'de - Suudi Arabistan, Bahreyn'e gösterilerin bastırılması için bin asker gönderdi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:00:58:14753F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">85</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:00:3802F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">144 94 533 327</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">143 88 543 334</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bahreyn, muhalefet gösterilerini sona erdirmek için komşularından yardım istedi</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:01:9838F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">124</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:01:25854F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">30 87 181 155</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Hill</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">108 171 172 234</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">199 87 546 259</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:05:20969F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:06:22000F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">45 89 174 222</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">58 87 256 388</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">29 199 547 396</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:08:21059F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">83</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:09:22090F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">208 130 338 235</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Cloud</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">307 91 473 161</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">330 239 389 309</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">82 171 291 347</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">481 88 549 140</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">123 241 294 310</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Building</FreeTextAnnotation>
+              <FreeTextAnnotation>Statue</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:11:21149F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">65</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:12:23181F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">134 193 154 216</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Building</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">385 89 544 212</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Statue</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">222 88 415 325</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Building</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:14:3221F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">65</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:15:4252F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Building</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">195 91 537 167</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">196 151 507 331</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Building</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Speaking _to_Camera</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:16:15293F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">317</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:21:23451F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Sky</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">459 88 529 123</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Building</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">157 117 201 171</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">269 109 467 331</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Police</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:27:9617F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">157</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:29:1669F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">30 126 105 319</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/o_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">156 159 230 320</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">309 145 380 337</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              <FreeTextAnnotation>Cityscape</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Car</FreeTextAnnotation>
+              <FreeTextAnnotation>Running</FreeTextAnnotation>
+              <FreeTextAnnotation>Gun_Shot</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:32:16774F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">196</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:37:11919F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Tree</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">116 105 198 269</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Car</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">238 296 311 341</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Parade</FreeTextAnnotation>
+              <FreeTextAnnotation>TXT:Bu savaş ilanı - Bahreyn'deki şii muhalefet: Körfez ülkelerinin müdahalesi savaş ilanıdır</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:39:9977F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">137</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:40:15012F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">342 169 411 333</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">24 156 546 335</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Flag</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">398 90 545 164</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outer_Space</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Parade</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:44:4121F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">65</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:45:5152F30000</MediaTimePoint>
+                </MediaTime>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+          <VideoSegment>
+            <TextAnnotation type="scene" relevance="1" confidence="1">
+              <FreeTextAnnotation>Outdoors</FreeTextAnnotation>
+              <FreeTextAnnotation>Road</FreeTextAnnotation>
+              <FreeTextAnnotation>Military</FreeTextAnnotation>
+              <FreeTextAnnotation>Human</FreeTextAnnotation>
+              <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              <FreeTextAnnotation>Parade</FreeTextAnnotation>
+            </TextAnnotation>
+            <MediaTime>
+              <MediaTimePoint>T00:01:46:16193F30000</MediaTimePoint>
+              <MediaIncrDuration mediaTimeUnit="PT1001N30000F">60</MediaIncrDuration>
+            </MediaTime>
+            <TemporalDecomposition>
+              <VideoSegment>
+                <MediaTime>
+                  <MediaTimePoint>T00:01:47:17224F30000</MediaTimePoint>
+                </MediaTime>
+                <SpatioTemporalDecomposition>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Road</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">146 377 211 417</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Person(w/frontal_face)</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">197 105 277 379</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Armed_Person</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">379 107 478 372</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Crowd</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">31 96 513 367</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+              	 <StillRegion>
+              	   <TextAnnotation>
+              	     <FreeTextAnnotation>Weapons</FreeTextAnnotation>
+              	   </TextAnnotation>
+              	   <SpatialLocator>
+              	     <Box mpeg7:dim="2 2">377 151 472 261</Box>
+                    </SpatialLocator>
+                  </StillRegion>
+                </SpatioTemporalDecomposition>
+              </VideoSegment>
+            </TemporalDecomposition>
+          </VideoSegment>
+        </TemporalDecomposition>
+      </Video>
+    </MultimediaContent>
+  </Description>
+</Mpeg7>
