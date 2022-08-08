@@ -1,0 +1,7 @@
+ntv16.mpg,
+0	48380	Pure Speech,
+48466	58799	Environmental Sound,Battle,gun,
+58904	67547	Speech Over Environmental Sound,
+67618	68309	Environmental Sound,Battle,gun,
+68380	74880	Speech Over Environmental Sound,
+74975	78393	Environmental Sound,Warning,daily-alarm,

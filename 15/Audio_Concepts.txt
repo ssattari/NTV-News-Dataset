@@ -1,0 +1,4 @@
+ntv15.mpg,
+0	21240	Pure Speech,
+21270	22700	Silence,
+22900	107049	Pure Speech,
