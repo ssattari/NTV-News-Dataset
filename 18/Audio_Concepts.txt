@@ -1,0 +1,4 @@
+ntv18.mpg,
+0	79999	Pure Speech,
+80153	84538	Silence,
+84769	101354	Pure Speech,
