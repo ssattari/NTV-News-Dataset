@@ -1,0 +1,6 @@
+ntv8.mpg,
+0	12000	Environmental Sound,Nature,wind,
+12127	22973	Speech Over Environmental Sound,
+23050	31794	Speech Over Environmental Sound,
+31864	34980	Environmental Sound,Warning,daily-alarm,
+35018	39627	Speech Over Environmental Sound,
