@@ -1,0 +1,5 @@
+ntv9.mpg,
+69	11725	Pure Speech,
+11773	14112	Silence,
+14128	32487	Pure Speech,
+32531	38504	Silence,
