@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Mpeg7 xmlns="urn:mpeg:mpeg7:schema:2001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mpeg7="urn:mpeg:mpeg7:schema:2001" xsi:schemaLocation="urn:mpeg:mpeg7:schema:2001 Mpeg7-2001.xsd">
+   <Description xsi:type="ClassificationSchemeDescriptionType">
+      <ClassificationScheme uri="urn:example:MPEG7">
+      <Header xsi:type="DescriptionMetadataType">
+          <Creator>
+             <Role  href="creatorCS">
+                <Name>Creator</Name>
+             </Role>
+             <Agent xsi:type="OrganizationType">
+                <Name>IBM T. J. Watson Research Center</Name>
+		         <Contact xsi:type="PersonType">
+                   <Name>
+                      <GivenName>Ching-Yung</GivenName>
+                      <FamilyName>Lin</FamilyName>
+                   </Name>
+                   <ElectronicAddress>
+                      <Email>cylin@watson.ibm.com</Email>
+                   </ElectronicAddress>
+                </Contact>
+             </Agent>
+           </Creator>
+           <Instrument>
+             <Tool>
+               <Name>IBM VideoAnnEx MPEG-7 Annotation Tool</Name>
+             </Tool>
+           </Instrument>
+       </Header>
+
+         <Term termID="Events">
+            <Name xml:lang="en">Events</Name>
+            <Term termID="People_Event">
+               <Name xml:lang="en">People_Event</Name>
+               <Term termID="Parade">
+                  <Name xml:lang="en">Parade</Name>
+               </Term>
+               <Term termID="Meeting">
+                  <Name xml:lang="en">Meeting</Name>
+               </Term>
+               <Term termID="Person_Speaking">
+                  <Name xml:lang="en">Person_Speaking</Name>
+               </Term>
+               <Term termID="Hand_Shaking">
+                  <Name xml:lang="en">Hand_Shaking</Name>
+               </Term>
+               <Term termID="Interview">
+                  <Name xml:lang="en">Interview</Name>
+               </Term>
+               <Term termID="Crying">
+                  <Name xml:lang="en">Crying</Name>
+               </Term>
+               <Term termID="Speaking__to_Camera">
+                  <Name xml:lang="en">Speaking _to_Camera</Name>
+               </Term>
+               <Term termID="Dancing">
+                  <Name xml:lang="en">Dancing</Name>
+               </Term>
+               <Term termID="Reporting">
+                  <Name xml:lang="en">Reporting</Name>
+               </Term>
+               <Term termID="Walking">
+                  <Name xml:lang="en">Walking</Name>
+               </Term>
+               <Term termID="Running">
+                  <Name xml:lang="en">Running</Name>
+               </Term>
+               <Term termID="Swiming">
+                  <Name xml:lang="en">Swiming</Name>
+               </Term>
+               <Term termID="Funeral">
+                  <Name xml:lang="en">Funeral</Name>
+               </Term>
+               <Term termID="Voting">
+                  <Name xml:lang="en">Voting</Name>
+               </Term>
+               <Term termID="Greeting">
+                  <Name xml:lang="en">Greeting</Name>
+               </Term>
+            </Term>
+            <Term termID="Transportation_Event">
+               <Name xml:lang="en">Transportation_Event</Name>
+               <Term termID="Accident_Crash">
+                  <Name xml:lang="en">Accident/Crash</Name>
+               </Term>
+               <Term termID="Road_Traffic">
+                  <Name xml:lang="en">Road_Traffic</Name>
+               </Term>
+               <Term termID="Takeoff_Launch">
+                  <Name xml:lang="en">Takeoff/Launch</Name>
+               </Term>
+               <Term termID="Landing">
+                  <Name xml:lang="en">Landing</Name>
+               </Term>
+            </Term>
+            <Term termID="Physical_Violence">
+               <Name xml:lang="en">Physical_Violence</Name>
+               <Term termID="Explosion">
+                  <Name xml:lang="en">Explosion</Name>
+               </Term>
+               <Term termID="Riot">
+                  <Name xml:lang="en">Riot</Name>
+               </Term>
+               <Term termID="Fight">
+                  <Name xml:lang="en">Fight</Name>
+               </Term>
+               <Term termID="Gun_Shot">
+                  <Name xml:lang="en">Gun_Shot</Name>
+               </Term>
+               <Term termID="Artillery">
+                  <Name xml:lang="en">Artillery</Name>
+               </Term>
+            </Term>
+         </Term>
+
+         <Term termID="Concepts">
+            <Name xml:lang="en">Concepts</Name>
+            <Term termID="Indoors">
+               <Name xml:lang="en">Indoors</Name>
+               <Term termID="Classroom">
+                  <Name xml:lang="en">Classroom</Name>
+               </Term>
+               <Term termID="News_Studio">
+                  <Name xml:lang="en">News_Studio</Name>
+               </Term>
+               <Term termID="Meeting_Room">
+                  <Name xml:lang="en">Meeting_Room</Name>
+               </Term>
+               <Term termID="Press_Conference">
+                  <Name xml:lang="en">Press Conference</Name>
+               </Term>
+               <Term termID="Factory">
+                  <Name xml:lang="en">Factory</Name>
+               </Term>
+               <Term termID="Laboratory">
+                  <Name xml:lang="en">Laboratory</Name>
+               </Term>
+               <Term termID="Camera_flash">
+                  <Name xml:lang="en">Camera flash</Name>
+               </Term>
+               <Term termID="Office">
+                  <Name xml:lang="en">Office</Name>
+               </Term>
+            </Term>
+            <Term termID="Outdoors">
+               <Name xml:lang="en">Outdoors</Name>
+               <Term termID="Nature_Vegetation">
+                  <Name xml:lang="en">Nature_Vegetation</Name>
+                  <Term termID="Forest">
+                     <Name xml:lang="en">Forest</Name>
+                  </Term>
+                  <Term termID="Tree">
+                     <Name xml:lang="en">Tree</Name>
+                  </Term>
+                  <Term termID="Greenery">
+                     <Name xml:lang="en">Greenery</Name>
+                  </Term>
+                  <Term termID="Flower">
+                     <Name xml:lang="en">Flower</Name>
+                  </Term>
+               </Term>
+               <Term termID="Nature_Non-Vegetation">
+                  <Name xml:lang="en">Nature_Non-Vegetation</Name>
+                  <Term termID="Sky">
+                     <Name xml:lang="en">Sky</Name>
+                  </Term>
+                  <Term termID="Cloud">
+                     <Name xml:lang="en">Cloud</Name>
+                  </Term>
+                  <Term termID="Water">
+                     <Name xml:lang="en">Water</Name>
+                  </Term>
+                  <Term termID="Snow">
+                     <Name xml:lang="en">Snow</Name>
+                  </Term>
+                  <Term termID="Beach">
+                     <Name xml:lang="en">Beach</Name>
+                  </Term>
+                  <Term termID="Desert">
+                     <Name xml:lang="en">Desert</Name>
+                  </Term>
+                  <Term termID="Land">
+                     <Name xml:lang="en">Land</Name>
+                  </Term>
+                  <Term termID="Mountain">
+                     <Name xml:lang="en">Mountain</Name>
+                  </Term>
+                  <Term termID="Rock">
+                     <Name xml:lang="en">Rock</Name>
+                  </Term>
+                  <Term termID="Waterfall">
+                     <Name xml:lang="en">Waterfall</Name>
+                  </Term>
+                  <Term termID="Fire">
+                     <Name xml:lang="en">Fire</Name>
+                  </Term>
+                  <Term termID="Smoke">
+                     <Name xml:lang="en">Smoke</Name>
+                  </Term>
+                  <Term termID="Hill">
+                     <Name xml:lang="en">Hill</Name>
+                  </Term>
+               </Term>
+               <Term termID="Man_Made_Scene">
+                  <Name xml:lang="en">Man_Made_Scene</Name>
+                  <Term termID="Road">
+                     <Name xml:lang="en">Road</Name>
+                  </Term>
+                  <Term termID="Cityscape">
+                     <Name xml:lang="en">Cityscape</Name>
+                  </Term>
+                  <Term termID="Building">
+                     <Name xml:lang="en">Building</Name>
+                  </Term>
+                  <Term termID="Bridge">
+                     <Name xml:lang="en">Bridge</Name>
+                  </Term>
+                  <Term termID="Statue">
+                     <Name xml:lang="en">Statue</Name>
+                  </Term>
+                  <Term termID="Stadium">
+                     <Name xml:lang="en">Stadium</Name>
+                  </Term>
+               </Term>
+            </Term>
+            <Term termID="Outer_Space">
+               <Name xml:lang="en">Outer_Space</Name>
+               <Term termID="Moon">
+                  <Name xml:lang="en">Moon</Name>
+               </Term>
+               <Term termID="Sun">
+                  <Name xml:lang="en">Sun</Name>
+               </Term>
+               <Term termID="Eclipse">
+                  <Name xml:lang="en">Eclipse</Name>
+               </Term>
+            </Term>
+            <Term termID="Sound">
+               <Name xml:lang="en">Sound</Name>
+               <Term termID="Music">
+                  <Name xml:lang="en">Music</Name>
+               </Term>
+               <Term termID="Animal_Noise">
+                  <Name xml:lang="en">Animal_Noise</Name>
+               </Term>
+               <Term termID="Vehicle_Noise">
+                  <Name xml:lang="en">Vehicle_Noise</Name>
+               </Term>
+               <Term termID="Cheering">
+                  <Name xml:lang="en">Cheering</Name>
+               </Term>
+               <Term termID="Applause">
+                  <Name xml:lang="en">Applause</Name>
+               </Term>
+               <Term termID="Laughter">
+                  <Name xml:lang="en">Laughter</Name>
+               </Term>
+               <Term termID="Helicopter_Noise">
+                  <Name xml:lang="en">Helicopter_Noise</Name>
+               </Term>
+               <Term termID="Female_Speech">
+                  <Name xml:lang="en">Female_Speech</Name>
+               </Term>
+               <Term termID="Male_Speech">
+                  <Name xml:lang="en">Male_Speech</Name>
+               </Term>
+               <Term termID="Commentator_Speech">
+                  <Name xml:lang="en">Commentator_Speech</Name>
+               </Term>
+            </Term>
+            <Term termID="Natural_Disaster">
+               <Name xml:lang="en">Natural_Disaster</Name>
+               <Term termID="Earthquake">
+                  <Name xml:lang="en">Earthquake</Name>
+               </Term>
+               <Term termID="Flood">
+                  <Name xml:lang="en">Flood</Name>
+               </Term>
+               <Term termID="Volcano">
+                  <Name xml:lang="en">Volcano</Name>
+               </Term>
+               <Term termID="Avalanche">
+                  <Name xml:lang="en">Avalanche</Name>
+               </Term>
+               <Term termID="Storm">
+                  <Name xml:lang="en">Storm</Name>
+               </Term>
+            </Term>
+            <Term termID="Sports">
+               <Name xml:lang="en">Sports</Name>
+               <Term termID="Basketball">
+                  <Name xml:lang="en">Basketball</Name>
+                  <Term termID="Foul">
+                     <Name xml:lang="en">Foul</Name>
+                  </Term>
+                  <Term termID="Out">
+                     <Name xml:lang="en">Out</Name>
+                  </Term>
+                  <Term termID="Shoot">
+                     <Name xml:lang="en">Shoot</Name>
+                  </Term>
+                  <Term termID="3_Point_Shoot">
+                     <Name xml:lang="en">3_Point_Shoot</Name>
+                  </Term>
+                  <Term termID="Penalty">
+                     <Name xml:lang="en">Penalty</Name>
+                  </Term>
+                  <Term termID="Pass">
+                     <Name xml:lang="en">Pass</Name>
+                  </Term>
+                  <Term termID="Rebound">
+                     <Name xml:lang="en">Rebound</Name>
+                  </Term>
+                  <Term termID="Quarter_Dancing">
+                     <Name xml:lang="en">Quarter/Dancing</Name>
+                  </Term>
+                  <Term termID="Ball-in">
+                     <Name xml:lang="en">Ball-in</Name>
+                  </Term>
+                  <Term termID="Out_of_Play">
+                     <Name xml:lang="en">Out_of_Play</Name>
+                  </Term>
+                  <Term termID="Dunk">
+                     <Name xml:lang="en">Dunk</Name>
+                  </Term>
+               </Term>
+               <Term termID="Football">
+                  <Name xml:lang="en">Football</Name>
+                  <Term termID="Goal">
+                     <Name xml:lang="en">Goal</Name>
+                  </Term>
+                  <Term termID="Corner">
+                     <Name xml:lang="en">Corner</Name>
+                  </Term>
+                  <Term termID="Foul">
+                     <Name xml:lang="en">Foul</Name>
+                  </Term>
+                  <Term termID="Penalty">
+                     <Name xml:lang="en">Penalty</Name>
+                  </Term>
+                  <Term termID="Throw-in">
+                     <Name xml:lang="en">Throw-in</Name>
+                  </Term>
+                  <Term termID="Pass">
+                     <Name xml:lang="en">Pass</Name>
+                  </Term>
+                  <Term termID="Ball-in">
+                     <Name xml:lang="en">Ball-in</Name>
+                  </Term>
+                  <Term termID="Free_Kick">
+                     <Name xml:lang="en">Free Kick</Name>
+                  </Term>
+                  <Term termID="Substitution">
+                     <Name xml:lang="en">Substitution</Name>
+                  </Term>
+                  <Term termID="Offside">
+                     <Name xml:lang="en">Offside</Name>
+                  </Term>
+                  <Term termID="Shoot">
+                     <Name xml:lang="en">Shoot</Name>
+                  </Term>
+                  <Term termID="Out">
+                     <Name xml:lang="en">Out</Name>
+                  </Term>
+               </Term>
+               <Term termID="Tennis">
+                  <Name xml:lang="en">Tennis</Name>
+                  <Term termID="Shoot">
+                     <Name xml:lang="en">Shoot</Name>
+                  </Term>
+                  <Term termID="Service">
+                     <Name xml:lang="en">Service</Name>
+                  </Term>
+                  <Term termID="Ace">
+                     <Name xml:lang="en">Ace</Name>
+                  </Term>
+                  <Term termID="Doubles_Play">
+                     <Name xml:lang="en">Doubles_Play</Name>
+                  </Term>
+                  <Term termID="Foul">
+                     <Name xml:lang="en">Foul</Name>
+                  </Term>
+               </Term>
+               <Term termID="Ice_Skating">
+                  <Name xml:lang="en">Ice_Skating</Name>
+                  <Term termID="Figure_Skating">
+                     <Name xml:lang="en">Figure_Skating</Name>
+                  </Term>
+                  <Term termID="Spin">
+                     <Name xml:lang="en">Spin</Name>
+                  </Term>
+               </Term>
+               <Term termID="Swimming">
+                  <Name xml:lang="en">Swimming</Name>
+                  <Term termID="Dive">
+                     <Name xml:lang="en">Dive</Name>
+                  </Term>
+               </Term>
+               <Term termID="Car_Racing-F1">
+                  <Name xml:lang="en">Car_Racing-F1</Name>
+               </Term>
+               <Term termID="Water_Sports">
+                  <Name xml:lang="en">Water_Sports</Name>
+                  <Term termID="Water_Skiing">
+                     <Name xml:lang="en">Water_Skiing</Name>
+                  </Term>
+                  <Term termID="Boat_Sailing">
+                     <Name xml:lang="en">Boat_Sailing</Name>
+                  </Term>
+               </Term>
+            </Term>
+            <Term termID="Economics">
+               <Name xml:lang="en">Economics</Name>
+            </Term>
+            <Term termID="Politics">
+               <Name xml:lang="en">Politics</Name>
+            </Term>
+            <Term termID="Weather">
+               <Name xml:lang="en">Weather</Name>
+            </Term>
+            <Term termID="Military">
+               <Name xml:lang="en">Military</Name>
+            </Term>
+         </Term>
+
+         <Term termID="Objects">
+            <Name xml:lang="en">Objects</Name>
+            <Term termID="Human">
+               <Name xml:lang="en">Human</Name>
+               <Term termID="Person_w_frontal_face_">
+                  <Name xml:lang="en">Person(w/frontal_face)</Name>
+               </Term>
+               <Term termID="Person_w_side_view_face_">
+                  <Name xml:lang="en">Person(w/side_view_face)</Name>
+               </Term>
+               <Term termID="Person_w_o_face_">
+                  <Name xml:lang="en">Person(w/o_face)</Name>
+               </Term>
+               <Term termID="Reporter">
+                  <Name xml:lang="en">Reporter</Name>
+               </Term>
+               <Term termID="Anchor_Man">
+                  <Name xml:lang="en">Anchor_Man</Name>
+               </Term>
+               <Term termID="Anchor_Woman">
+                  <Name xml:lang="en">Anchor_Woman</Name>
+               </Term>
+               <Term termID="Armed_Person">
+                  <Name xml:lang="en">Armed_Person</Name>
+               </Term>
+               <Term termID="Crowd">
+                  <Name xml:lang="en">Crowd</Name>
+               </Term>
+               <Term termID="Audience">
+                  <Name xml:lang="en">Audience</Name>
+               </Term>
+               <Term termID="Police">
+                  <Name xml:lang="en">Police</Name>
+               </Term>
+            </Term>
+            <Term termID="Animal">
+               <Name xml:lang="en">Animal</Name>
+               <Term termID="Cat">
+                  <Name xml:lang="en">Cat</Name>
+               </Term>
+               <Term termID="Monkey">
+                  <Name xml:lang="en">Monkey</Name>
+               </Term>
+               <Term termID="Cow">
+                  <Name xml:lang="en">Cow</Name>
+               </Term>
+               <Term termID="Dog">
+                  <Name xml:lang="en">Dog</Name>
+               </Term>
+               <Term termID="Bird">
+                  <Name xml:lang="en">Bird</Name>
+               </Term>
+            </Term>
+            <Term termID="Man_Made_Object">
+               <Name xml:lang="en">Man_Made_Object</Name>
+               <Term termID="Flag">
+                  <Name xml:lang="en">Flag</Name>
+               </Term>
+               <Term termID="Weapons">
+                  <Name xml:lang="en">Weapons</Name>
+               </Term>
+               <Term termID="Telephone">
+                  <Name xml:lang="en">Telephone</Name>
+               </Term>
+               <Term termID="Robot">
+                  <Name xml:lang="en">Robot</Name>
+               </Term>
+               <Term termID="Radar">
+                  <Name xml:lang="en">Radar</Name>
+               </Term>
+               <Term termID="Tank">
+                  <Name xml:lang="en">Tank</Name>
+               </Term>
+               <Term termID="Camera">
+                  <Name xml:lang="en">Camera</Name>
+               </Term>
+            </Term>
+            <Term termID="Transportation">
+               <Name xml:lang="en">Transportation</Name>
+               <Term termID="Airplane">
+                  <Name xml:lang="en">Airplane</Name>
+               </Term>
+               <Term termID="Car">
+                  <Name xml:lang="en">Car</Name>
+               </Term>
+               <Term termID="Space_Shuttle">
+                  <Name xml:lang="en">Space_Shuttle</Name>
+               </Term>
+               <Term termID="Rocket">
+                  <Name xml:lang="en">Rocket</Name>
+               </Term>
+               <Term termID="Boat-Ship">
+                  <Name xml:lang="en">Boat-Ship</Name>
+               </Term>
+               <Term termID="Helicopter">
+                  <Name xml:lang="en">Helicopter</Name>
+               </Term>
+               <Term termID="Motorcycle">
+                  <Name xml:lang="en">Motorcycle</Name>
+               </Term>
+               <Term termID="Bus">
+                  <Name xml:lang="en">Bus</Name>
+               </Term>
+               <Term termID="Train">
+                  <Name xml:lang="en">Train</Name>
+               </Term>
+               <Term termID="Tractor">
+                  <Name xml:lang="en">Tractor</Name>
+               </Term>
+               <Term termID="Truck">
+                  <Name xml:lang="en">Truck</Name>
+               </Term>
+               <Term termID="Bicycle">
+                  <Name xml:lang="en">Bicycle</Name>
+               </Term>
+               <Term termID="Fire_Truck">
+                  <Name xml:lang="en">Fire_Truck</Name>
+               </Term>
+               <Term termID="Ambulance">
+                  <Name xml:lang="en">Ambulance</Name>
+               </Term>
+            </Term>
+            <Term termID="Graphics_and_Text">
+               <Name xml:lang="en">Graphics_and_Text</Name>
+            </Term>
+            <Term termID="Sports">
+               <Name xml:lang="en">Sports</Name>
+               <Term termID="Football">
+                  <Name xml:lang="en">Football</Name>
+                  <Term termID="Ball">
+                     <Name xml:lang="en">Ball</Name>
+                  </Term>
+                  <Term termID="Goalpost">
+                     <Name xml:lang="en">Goalpost</Name>
+                  </Term>
+                  <Term termID="Stadium">
+                     <Name xml:lang="en">Stadium</Name>
+                  </Term>
+                  <Term termID="Corner_Post">
+                     <Name xml:lang="en">Corner_Post</Name>
+                  </Term>
+                  <Term termID="Goal_keeper">
+                     <Name xml:lang="en">Goal keeper</Name>
+                  </Term>
+               </Term>
+               <Term termID="Basketball">
+                  <Name xml:lang="en">Basketball</Name>
+                  <Term termID="Ball">
+                     <Name xml:lang="en">Ball</Name>
+                  </Term>
+                  <Term termID="Hoop">
+                     <Name xml:lang="en">Hoop</Name>
+                  </Term>
+                  <Term termID="Score_Board">
+                     <Name xml:lang="en">Score_Board</Name>
+                  </Term>
+                  <Term termID="Basketball_Field">
+                     <Name xml:lang="en">Basketball_Field</Name>
+                  </Term>
+               </Term>
+               <Term termID="Tennis">
+                  <Name xml:lang="en">Tennis</Name>
+                  <Term termID="Tennis_Ball">
+                     <Name xml:lang="en">Tennis_Ball</Name>
+                  </Term>
+                  <Term termID="Racket">
+                     <Name xml:lang="en">Racket</Name>
+                  </Term>
+                  <Term termID="Net">
+                     <Name xml:lang="en">Net</Name>
+                  </Term>
+                  <Term termID="Court">
+                     <Name xml:lang="en">Court</Name>
+                  </Term>
+               </Term>
+               <Term termID="Ice_Skating">
+                  <Name xml:lang="en">Ice_Skating</Name>
+                  <Term termID="Ice_Pist">
+                     <Name xml:lang="en">Ice_Pist</Name>
+                  </Term>
+                  <Term termID="Skater">
+                     <Name xml:lang="en">Skater</Name>
+                  </Term>
+               </Term>
+               <Term termID="Swimming">
+                  <Name xml:lang="en">Swimming</Name>
+                  <Term termID="Pool">
+                     <Name xml:lang="en">Pool</Name>
+                  </Term>
+                  <Term termID="Swimmer">
+                     <Name xml:lang="en">Swimmer</Name>
+                  </Term>
+                  <Term termID="Diving_Board">
+                     <Name xml:lang="en">Diving_Board</Name>
+                  </Term>
+               </Term>
+               <Term termID="Car_Racing-F1">
+                  <Name xml:lang="en">Car_Racing-F1</Name>
+                  <Term termID="Pist">
+                     <Name xml:lang="en">Pist</Name>
+                  </Term>
+                  <Term termID="Race_Car">
+                     <Name xml:lang="en">Race_Car</Name>
+                  </Term>
+               </Term>
+               <Term termID="Player">
+                  <Name xml:lang="en">Player</Name>
+               </Term>
+               <Term termID="Referee">
+                  <Name xml:lang="en">Referee</Name>
+               </Term>
+               <Term termID="Score">
+                  <Name xml:lang="en">Score</Name>
+               </Term>
+            </Term>
+         </Term>
+       </ClassificationScheme>
+   </Description>
+</Mpeg7>
