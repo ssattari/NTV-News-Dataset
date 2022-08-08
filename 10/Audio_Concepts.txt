@@ -1,0 +1,3 @@
+ntv10.mpg,
+0	32408	Pure Speech,
+32451	34455	Silence,

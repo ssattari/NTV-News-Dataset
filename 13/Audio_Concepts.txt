@@ -1,0 +1,5 @@
+ntv13.mpg,
+0	454	Silence,
+472	12109	Pure Speech,
+12163	13200	Silence,
+13254	33305	Pure Speech,
